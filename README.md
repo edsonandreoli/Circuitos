@@ -16,3 +16,4 @@ Passo a passo seguindo a seguinte linha do tempo:
 * Utilizar a Licença recomendada: MIT, APC, GNU. Depois ler e compreender melhor isso.
 * Publish Repository - essa ação manda o arquivo para o repositório remoto do GitHub
 -------------------------------------------------------------------------------------
+Essa linha foi adicionada diretamente pelo site GitHub.
